@@ -1,12 +1,3 @@
-/*
-Description: Assignment 8 Part 1 Enrypting and Decrypting
-Student: Sergio Satyabrata
-Class: COMSC - 165 - 5098
-Date: July 11th, 2021
-Status: Complete
-*/
-
-
 #include <iostream>;
 #include <string>;
 #include <fstream>;
